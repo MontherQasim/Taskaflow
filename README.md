@@ -1,12 +1,4 @@
 # Taskaflow
-(Atypon Assignment)
-
-Monther Qasim
-monther-qasim.99@outlook.com
-
-Please review this Google Drive PDF link. It contains instructions on running the program, images, and details on how the project meets requirements. It won't take more than two minutes.
-
-https://drive.google.com/file/d/13ems3qlA0MU4gzR4dARxMQEggooUMtRj/view?usp=sharing
 
 Backend (Express.js) Setup
 
